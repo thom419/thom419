@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=180&section=header&text=Data%20Analysis%20%26%20Business%20Intelligence&fontSize=85&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=180&section=header&text=Analytics%20%26%20BI%20Enthusiast&fontSize=85&fontColor=ffffff&animation=fadeIn" alt="header" />
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Facundo+Godoy;Data+Analysis+%26+BI+Specialist;Python+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Facundo+Godoy;Analytics+%26+BI+Enthusiast;En+Formaci%C3%B3n+Continua" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Data_Analyst-667eea?style=for-the-badge&logoColor=white)](https://github.com/thom419)
+[![](https://img.shields.io/badge/Analytics_Student-667eea?style=for-the-badge&logoColor=white)](https://github.com/thom419)
 [![](https://img.shields.io/badge/Buenos_Aires%2C_Argentina-667eea?style=for-the-badge&logoColor=white)](https://github.com/thom419)
-[![](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logoColor=white)](https://github.com/thom419)
+[![](https://img.shields.io/badge/Seeking_Internship-667eea?style=for-the-badge&logoColor=white)](mailto:godoyfacundotomas336@gmail.com)
 [![](https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godoyfacundotomas336@gmail.com)
 [![](https://img.shields.io/badge/Phone-667eea?style=for-the-badge&logo=phone&logoColor=white)](tel:+5491161759700)
 
@@ -21,33 +21,36 @@
 
 ---
 
-## 👨‍💻 Perfil Profesional
+## 👨‍💻 Sobre Mí
 
-Estudiante de **Licenciatura en Sistemas de Información de las Organizaciones** en la Facultad de Ciencias Económicas (UBA) con especialización en análisis de datos y Business Intelligence. 
+**Estudiante de Licenciatura en Sistemas de Información de las Organizaciones** en la Facultad de Ciencias Económicas (UBA), apasionado por transformar datos en decisiones accionables.
 
-Me caracterizo por mi responsabilidad, proactividad y capacidad para resolver problemas en entornos dinámicos. Cuento con experiencia académica en proyectos de análisis de datos, visualización de información y desarrollo de aplicaciones con enfoque en la toma de decisiones basada en datos.
+Estoy en **formación continua** desarrollando expertise en **Data Analytics y Business Intelligence**, con enfoque en análisis de datos, visualización de información y generación de insights para empresas de **Finanzas** y **E-Commerce**.
 
-**Busco desarrollarme profesionalmente en:**
-- 📊 Posiciones en Data Analytics & Business Intelligence
-- 🐍 Oportunidades en Data Engineering con Python
-- 💼 Roles en Business Analysis & Data-Driven Decision Making
-- 🌱 Empresas orientadas a la innovación y transformación digital
+Me caracterizan:
+- 🎯 **Visión analítica**: Identifico patrones en datos para mejorar la toma de decisiones
+- 👥 **Trabajo en equipo**: Experiencia coordinando equipos y manejando relaciones complejas
+- 📚 **Aprendizaje continuo**: Compromiso con la adquisición constante de nuevas habilidades
+- 💡 **Mentalidad estratégica**: Entiendo que los datos son herramientas para el control de gestión
+
+**Objetivo Principal:**
+🔍 Busco una **pasantía en Data Analytics / Business Intelligence** para adquirir experiencia práctica en entornos corporativos, mientras continúo mi formación académica.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### **Lenguajes de Programación**
-![Python](https://img.shields.io/badge/Python-667eea?style=flat-square&logo=python&logoColor=white)
+### **Análisis de Datos & BI**
+![Excel](https://img.shields.io/badge/Excel_Avanzado-667eea?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-667eea?style=flat-square&logo=power-bi&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-667eea?style=flat-square&logo=google-analytics&logoColor=white)
+
+### **Bases de Datos & SQL**
 ![SQL](https://img.shields.io/badge/SQL-667eea?style=flat-square&logo=postgresql&logoColor=white)
 
-### **Análisis de Datos & BI**
-![Excel](https://img.shields.io/badge/Excel-667eea?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-667eea?style=flat-square&logo=power-bi&logoColor=white)
-
-### **Bases de Datos**
-![SQLite](https://img.shields.io/badge/SQLite-667eea?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-667eea?style=flat-square&logo=postgresql&logoColor=white)
+### **Programación**
+![C#](https://img.shields.io/badge/C%23-667eea?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-667eea?style=flat-square&logo=dotnet&logoColor=white)
 
 ### **Herramientas & Plataformas**
 ![Git](https://img.shields.io/badge/Git-667eea?style=flat-square&logo=git&logoColor=white)
@@ -56,86 +59,114 @@ Me caracterizo por mi responsabilidad, proactividad y capacidad para resolver pr
 
 ---
 
-## 📊 Habilidades Técnicas Detalladas
+## 📊 Competencias Técnicas
 
-| Competencia | Nivel | Detalles |
+| Herramienta | Nivel | Detalles |
 |------------|-------|---------|
-| **Excel Avanzado** | ⭐⭐⭐⭐⭐ | Fórmulas, validaciones, filtros, tablas dinámicas, análisis de datos |
-| **Power BI** | ⭐⭐⭐⭐☆ | Dashboards, visualización de KPIs, reportes interactivos |
-| **Python** | ⭐⭐⭐⭐☆ | Estructuras de datos, funciones, lógica de programación, SQLite |
-| **SQL** | ⭐⭐⭐⭐☆ | Consultas, JOINs, agregaciones, filtros, SQLite |
-| **Análisis de Datos** | ⭐⭐⭐⭐⭐ | Limpieza, normalización, visualización e interpretación de datos |
-| **Power Point & Word** | ⭐⭐⭐⭐☆ | Presentaciones profesionales, documentación |
+| **Excel Avanzado** | ⭐⭐⭐⭐☆ | Fórmulas complejas, tablas dinámicas, validaciones, análisis de datos |
+| **Power BI** | ⭐⭐⭐⭐☆ | Dashboards interactivos, visualización de KPIs, reportes |
+| **Looker Studio** | ⭐⭐⭐⭐☆ | Análisis de datos, visualizaciones, dashboards empresariales |
+| **SQL** | ⭐⭐⭐☆☆ | Consultas básicas, JOINs, agregaciones, filtros |
+| **Análisis de Datos** | ⭐⭐⭐⭐⭐ | Limpieza, normalización, visualización e interpretación |
+| **C# & .NET** | ⭐⭐⭐☆☆ | Programación orientada a objetos, algoritmos (en formación carrera) |
 
 ---
 
 ## 🎯 Proyectos Destacados
 
 <details>
-<summary><b>📈 Proyecto de Análisis de Datos - Excel & Power BI (2025)</b></summary>
+<summary><b>📈 Análisis de Datos de Ventas - Imaginaria S.A (2025)</b></summary>
 
-Proyecto de iniciativa propia para aplicar y demostrar competencias en análisis de datos y visualización de información empresarial.
+Proyecto integral de análisis de datos desde la recolección hasta la visualización en dashboards interactivos.
 
 | Aspecto | Detalles |
 |--------|---------|
-| **Objetivo** | Análisis integral de desempeño de ventas mediante dashboards interactivos |
+| **Objetivo** | Análisis completo de desempeño de ventas y generación de insights |
 | **Volumen de Datos** | 500+ registros de transacciones |
-| **Herramientas** | Excel (limpieza, normalización), Power BI (visualización) |
-| **Procesos** | Limpieza de datos, normalización, diseño de dashboards |
-| **KPIs Monitoreados** | 5 indicadores clave de desempeño de ventas |
-| **Documentación** | Proyecto publicado en GitHub |
+| **Herramientas** | Excel (limpieza y transformación), Power BI (visualización) |
+| **Procesos Realizados** | ETL, limpieza, normalización, diseño de dashboards |
+| **KPIs Desarrollados** | Ventas totales, márgenes de utilidad, ubicación de clientes, cantidades vendidas |
+| **Aprendizaje** | Ciclo completo de análisis de datos en contexto empresarial |
+| **Repositorio** | [Ver Proyecto](https://github.com/thom419/Proyecto_analisis-de-datos-imaginaria-S.A) |
 
-**Resultados Alcanzados:**
-- ✅ Limpieza y normalización exitosa de dataset
-- ✅ Dashboard interactivo con 5 KPIs operacionales
-- ✅ Análisis de tendencias de ventas por período
-- ✅ Documentación completa en repositorio GitHub
+**Logros:**
+- ✅ Dataset limpio y normalizado
+- ✅ Dashboard interactivo con 5+ KPIs operacionales
+- ✅ Análisis de tendencias y patrones de ventas
+- ✅ Documentación completa en repositorio
 
 </details>
 
 <details>
-<summary><b>🗂️ Programa de Gestión de Inventario - Python & SQLite (2025)</b></summary>
+<summary><b>📊 Análisis de Ventas Ficticio - Looker Studio (En Desarrollo)</b></summary>
 
-Aplicación de consola desarrollada para demostrar competencias en programación, bases de datos y gestión de información.
+Proyecto en desarrollo como parte del **Curso de Business Intelligence - BA Aprende** (finaliza Julio 2026).
 
 | Aspecto | Detalles |
 |--------|---------|
-| **Tipo** | Aplicación de consola (CLI) |
+| **Objetivo** | Análisis de ventas de empresa ficticia con KPIs clave |
+| **Herramienta** | Looker Studio |
+| **Datos Analizados** | Ventas, ubicación de clientes, márgenes de utilidad, cantidades |
+| **Dashboard** | Privado (en desarrollo para evaluación del curso) |
+| **Estado** | 50% completado - Finalización: Julio 2026 |
+| **Aprendizaje** | Herramienta profesional de visualización con datos reales |
+
+**En desarrollo:**
+- 🔄 Construcción de dashboards interactivos
+- 🔄 Análisis de KPIs de desempeño
+- 🔄 Optimización de visualizaciones
+
+</details>
+
+<details>
+<summary><b>🗂️ Programa de Gestión de Inventario - Python (2025)</b></summary>
+
+Aplicación desarrollada para aplicar conceptos fundamentales de programación, estructuras de datos y persistencia de información.
+
+| Aspecto | Detalles |
+|--------|---------|
+| **Objetivo** | Demostrar fundamentos de programación y gestión de datos |
 | **Tecnologías** | Python, SQLite, SQL |
 | **Funcionalidades** | CRUD completo (crear, leer, actualizar, eliminar) |
-| **Persistencia** | Base de datos SQLite con consultas SQL optimizadas |
-| **Características** | Gestión de productos, reportes de bajo stock |
-| **Documentación** | Publicado en GitHub |
+| **Características** | Gestión de productos, reportes de bajo stock, persistencia de datos |
+| **Repositorio** | [Ver Proyecto](https://github.com/thom419/proyecto-python) |
 
 **Funcionalidades Implementadas:**
-- ✅ Operaciones CRUD completas para inventario
-- ✅ Persistencia de datos en SQLite
-- ✅ Generación de reportes de stock bajo
-- ✅ Interfaz de usuario por consola intuitiva
+- ✅ Operaciones CRUD completas
+- ✅ Persistencia en base de datos SQLite
+- ✅ Generación de reportes de stock
+- ✅ Interfaz por consola intuitiva
 - ✅ Código documentado y versionado
+
+**Aprendizaje:** Conceptos fundamentales de programación, lógica, estructuras de datos y bases de datos.
 
 </details>
 
 ---
 
-## 💼 Experiencia Laboral
+## 💼 Experiencia Profesional
 
-### **Tutor Académico - Voluntario**
-📍 **Facultad de Ciencias Económicas (UBA) - Programa Econ. Circular 2026**  
-📅 **Junio 2026 - Presente**
+### **Tutor Académico - Evento Econ. Circular 2026**
+📍 **Facultad de Ciencias Económicas (UBA)**  
+📅 **Junio 2026** | **Duración: 2 días**
 
-Acompañamiento académico y orientación en proyectos de movilidad sostenible para estudiantes de nivel secundario.
+Acompañamiento académico y coordinación de equipos de estudiantes de nivel secundario en proyecto de movilidad sostenible.
 
-**Responsabilidades Clave:**
-- 👥 Tutoría de grupo de 15 estudiantes de nivel secundario
-- 💡 Facilitación de debates y sesiones de ideación
-- 📋 Gestión de tiempos y seguimiento de actividades
-- 📊 Coordinación de seguimiento de propuestas de sostenibilidad
+**Responsabilidades:**
+- 👥 Tutoría y mentoring de grupo de 15 estudiantes
+- 💡 Facilitación de sesiones de trabajo y debates estratégicos
+- 📋 Coordinación de seguimiento de actividades y gestión de tiempos
 - 🎤 Coordinación de presentaciones ante legisladores de CABA
-- 📚 Capacitación en desarrollo sostenible y RSE
+- 📚 Transmisión de conocimientos sobre desarrollo sostenible y RSE
 
 **Competencias Desarrolladas:**
-Python • Liderazgo • Comunicación • Gestión de Proyectos • Trabajo en Equipo • Responsabilidad Social
+- Liderazgo de equipos
+- Comunicación efectiva
+- Gestión de proyectos
+- Manejo de relaciones interpersonales
+- Trabajo bajo presión
+
+**Aprendizaje:** A trabajar con personas de distintas realidades, entender sus motivaciones y construir soluciones colectivas considerando diversas perspectivas.
 
 ---
 
@@ -145,15 +176,18 @@ Python • Liderazgo • Comunicación • Gestión de Proyectos • Trabajo en 
 📍 **Facultad de Ciencias Económicas - Universidad de Buenos Aires (UBA)**  
 📅 **Ingreso: 2022** | **Estado: En Curso**
 
+Formación integral en tecnología, sistemas de información, análisis y gestión empresarial.
+
 ---
 
 ## 📚 Formación Complementaria
 
 | Curso | Institución | Período | Estado |
 |-------|-------------|---------|--------|
+| **Business Intelligence con Looker Studio** | BA Aprende | Junio-Julio 2026 | 🔄 En Curso (50%) |
 | **Curso de Python desde Cero** | Centro Cultural de la Ciencia | Sep-Oct 2025 | ✅ Completado |
-| **Curso de Inglés Nivel 7 (B1+)** | Centro Universitario de Idiomas (UBA) | Ago-Dic 2025 | ✅ En Curso |
 | **Fundamentos de Programación en Python** | BA Aprende | Julio 2025 | ✅ Completado |
+| **Curso de Inglés Nivel 7 (B1+)** | Centro Universitario de Idiomas (UBA) | Ago-Dic 2025 | ✅ Completado |
 | **Inglés Intermedio (B1)** | Instituto La Victoria | 2018-2021 | ✅ Completado |
 
 ---
@@ -161,7 +195,19 @@ Python • Liderazgo • Comunicación • Gestión de Proyectos • Trabajo en 
 ## 🌍 Idiomas
 
 - 🇪🇸 **Español**: Nativo
-- 🇬🇧 **Inglés**: B1+ (Intermedio-Avanzado) - En mejora continua
+- 🇬🇧 **Inglés**: B1+ (Intermedio-Avanzado)
+
+---
+
+## 🎯 Sectores de Interés
+
+Mi mayor interés se concentra en industrias orientadas a datos:
+
+| Sector | Interés | Razón |
+|--------|---------|-------|
+| 💰 **Finanzas** | ⭐⭐⭐⭐⭐ | Toma de decisiones basada en datos, análisis de riesgo, control de gestión |
+| 🛒 **E-Commerce** | ⭐⭐⭐⭐⭐ | Análisis de comportamiento de clientes, optimización de ventas, insights de mercado |
+| 💻 **Tech** | ⭐⭐⭐⭐☆ | Innovación, data-driven culture, growth analytics |
 
 ---
 
@@ -169,12 +215,12 @@ Python • Liderazgo • Comunicación • Gestión de Proyectos • Trabajo en 
 
 | Competencia | Descripción |
 |------------|------------|
-| **Análisis de Datos** | Capacidad para identificar patrones, limpiar datos y extraer insights |
-| **Resolución de Problemas** | Enfoque pragmático y estructurado para resolver desafíos |
-| **Trabajo en Equipo** | Colaboración efectiva, comunicación clara y cooperación |
-| **Aprendizaje Continuo** | Actitud proactiva hacia la adquisición de nuevas habilidades |
-| **Responsabilidad** | Cumplimiento de objetivos y entregas en tiempo y forma |
-| **Adaptabilidad** | Desempeño efectivo en entornos dinámicos y cambiantes |
+| **Pensamiento Analítico** | Capacidad para descomponer problemas complejos en componentes analizables |
+| **Orientación a Resultados** | Enfoque en entregar insights accionables que impulsen decisiones |
+| **Trabajo Colaborativo** | Experiencia trabajando con equipos multidisciplinarios |
+| **Adaptabilidad** | Desempeño efectivo en entornos dinámicos y en cambio constante |
+| **Aprendizaje Continuo** | Compromiso genuino con la adquisición de nuevas competencias |
+| **Comunicación** | Capacidad de explicar conceptos técnicos a audiencias no técnicas |
 
 ---
 
@@ -192,37 +238,6 @@ Python • Liderazgo • Comunicación • Gestión de Proyectos • Trabajo en 
 
 ---
 
-## 🎯 Objetivos Profesionales
-
-```yaml
-aprendizaje:
-  - Advanced Analytics & Data Science
-  - Machine Learning & AI Applications
-  - Advanced SQL & Database Design
-  - Power BI & Tableau Mastery
-  - Cloud Platforms (AWS, Azure)
-
-desarrollo:
-  - Analytics Dashboard Platform
-  - Data Pipeline Automation
-  - Business Intelligence Solutions
-  - Predictive Modeling Projects
-
-explorando:
-  - Data Engineering
-  - Business Analytics
-  - Data Visualization Best Practices
-  - Advanced Statistical Methods
-
-abierto_a:
-  - Posiciones en Data Analytics
-  - Internships en BI/Data
-  - Proyectos colaborativos
-  - Mentoría y aprendizaje
-```
-
----
-
 ## 🏅 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thom419&theme=midnight-purple&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -232,6 +247,40 @@ abierto_a:
 ## 📈 Actividad de Contribución
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=thom419&custom_title=Contribution%20Graph&theme=midnight-purple&bg_color=0d1117&color=667eea&line=667eea&point=667eea&hide_border=true)](https://github.com/thom419)
+
+---
+
+## 🎯 Objetivos Profesionales
+
+```yaml
+corto_plazo:
+  objetivo_principal: Conseguir pasantía en Data Analytics / BI
+  plazo: 6-12 meses
+  enfoque:
+    - Experiencia práctica en contexto corporativo
+    - Consolidar herramientas Excel, SQL, Power BI
+    - Trabajar con equipos multidisciplinarios
+    - Aplicar teoría en casos reales
+
+formacion_continua:
+  tecnologias:
+    - SQL (avanzado)
+    - Power BI (especialización)
+    - Looker Studio (profundización)
+  certificaciones:
+    - Business Intelligence con BA Aprende
+  carrera:
+    - Licenciatura en Sistemas (UBA FCE)
+
+largo_plazo:
+  objetivo: Profesional Mid-Level / Semi-Senior (SSr) en Data Analytics
+  plazo: 3-5 años
+  vision:
+    - Multinacional con equipos internacionales
+    - Proyectos complejos de BI y analytics
+    - Liderazgo de iniciativas de data
+    - Impacto en decisiones estratégicas
+```
 
 ---
 
@@ -249,9 +298,13 @@ abierto_a:
 ---
 
 <div align="center">
-  <i>"Los datos no mienten. Mi trabajo es hacerlos hablar."</i>
   
-  **Open to opportunities in Data Analytics, Business Intelligence & Python Development**
+  ### *Transformo datos en decisiones. Estudiante de BI apasionado por el análisis.*
+  
+  ### *En formación continua. Buscando convertir datos en insights que impulsen negocios.*
+
+  **🔍 Abierto a oportunidades en Data Analytics, Business Intelligence e Internships**
+  
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=footer&animation=fadeIn" alt="footer" />
