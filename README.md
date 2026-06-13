@@ -240,7 +240,7 @@ abierto_a:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godoyfacundotomas336@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/facundo-godoy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-godoy-288390211/)
 [![GitHub](https://img.shields.io/badge/GitHub-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thom419)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-667eea?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491161759700)
 
