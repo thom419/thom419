@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=180&section=header&text=Analytics%20%26%20BI%20Enthusiast&fontSize=85&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://img.shields.io/badge/Analytics%20%26%20BI%20Enthusiast-667eea?style=for-the-badge&logoColor=white&fontSize=20" alt="header" />
 </div>
 
 <h1 align="center">
@@ -307,4 +307,6 @@ largo_plazo:
   
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=footer&animation=fadeIn" alt="footer" />
+<div align="center" style="margin-top: 40px;">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20in%20Buenos%20Aires-667eea?style=flat-square&logoColor=white" alt="footer" />
+</div>
